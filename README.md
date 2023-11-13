@@ -1,2 +1,2 @@
-# LittleLemon-Capstone
-Meta-Back-End Capstone project.
+# LittleLemon-WebApplication
+ Capstone Project for the Meta-Back-End Deverloper course. 
